@@ -1,0 +1,56 @@
+{
+    "products":[
+        {
+          "id": 1,
+          "title": "Product 1",
+          "price": 9.99,
+          "description": "This is the first product"
+        },
+        {
+          "id": 2,
+          "title": "Product 2",
+          "price": 14.99,
+          "description": "This is the second product"
+        },
+        {
+          "id": 3,
+          "title": "Product 3",
+          "price": 19.99,
+          "description": "This is the third product"
+        }
+      ],
+      "featured-products":[
+        {
+          "id": 1,
+          "title": " new Product 1",
+          "price": 9.99,
+          "description": "This is the  new first product"
+        },
+        {
+          "id": 2,
+          "title": " new Product 2",
+          "price": 14.99,
+          "description": "This is the  new second product"
+        },
+        {
+          "id": 3,
+          "title": " new Product 3",
+          "price": 19.99,
+          "description": "This is the new  third product"
+        }
+      ],
+      "postcode":[
+        {
+          "post":"p1",
+          "zip":"z1"
+        },
+        {
+          "post":"p2",
+          "zip":"z2"
+        },
+        {
+          "post":"p3",
+          "zip":"z3"
+        }
+      ]
+}
